@@ -1,0 +1,7 @@
+{
+    "name": "serialTest",
+    "version": "1.0.0",
+    "dependencies": {
+        "serialport": "^11.0.0"
+    }
+}
